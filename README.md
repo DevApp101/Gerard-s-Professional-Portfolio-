@@ -1,73 +1,26 @@
 # Gerard-s-Professional-Portfolio-
 A repository showcasing my professional qualifications, academic modules, and additional courses
 
+#Cybersecurity Essentials — Cisco Networking Academy Completed: May 2023
+<img width="517" height="347" alt="image" src="https://github.com/user-attachments/assets/cdd092cd-2141-4a79-bf6c-bb0d25576594" />
+<img width="805" height="539" alt="image" src="https://github.com/user-attachments/assets/ed77eafa-ca27-4aa9-b07d-7d1ee549ed8a" />
 
-🚀 Certifications & Skills
+#Vertex AI Prompt Design – Google Cloud Completed: Nov 2025
+<img width="1000" height="666" alt="image" src="https://github.com/user-attachments/assets/d0e572b3-f998-4dee-b91f-ef37541a91c9" />
 
-This repository highlights my foundational training and hands-on experience across Cybersecurity, Artificial Intelligence, Generative AI, and Google Cloud technologies.
+#Operationalizing Responsible AI – Google Cloud
+<img width="1000" height="909" alt="image" src="https://github.com/user-attachments/assets/829f7ba1-d8f2-4689-95fd-d6c861f56a54" />
 
-🔐 Cybersecurity Foundations
+#PMLE Certification Preparation – Google Cloud
+<img width="1000" height="909" alt="image" src="https://github.com/user-attachments/assets/7df707d6-fde1-430d-9d9c-1c04915b92a0" />
 
-Understanding of cybersecurity threats, vulnerabilities, and attack vectors
+#Introduction to Responsible AI – Google Cloud
+<img width="1000" height="909" alt="image" src="https://github.com/user-attachments/assets/9284ab4e-b09f-4275-8acd-dc4110589de8" />
 
-Knowledge of Confidentiality, Integrity, and Availability (CIA Triad)
+#Introduction to Large Language Models – Google Cloud
+<img width="1000" height="909" alt="image" src="https://github.com/user-attachments/assets/e0faefb3-29b7-4b24-9eff-c46b2f9938b2" />
 
-Familiarity with security controls, countermeasures, and risk mitigation
+#Introduction to Generative AI – Google Cloud
+<img width="1000" height="909" alt="image" src="https://github.com/user-attachments/assets/b17ee160-5024-4e96-a4c7-e6ae980cea4c" />
 
-Awareness of cybersecurity laws, policies, compliance, and incident response
 
-Practical exposure to protecting networks, systems, and data
-
-Certification:
-
-Cybersecurity Essentials – Cisco Networking Academy
-
-🤖 Artificial Intelligence & Generative AI
-
-Prompt engineering and optimization for Large Language Models (LLMs)
-
-Experience with multimodal generative AI (text + image inputs)
-
-Image analysis using Gemini models in Vertex AI
-
-Ability to guide and control generative AI outputs
-
-Understanding of LLM capabilities, limitations, and performance tuning
-
-Certifications:
-
-Vertex AI Prompt Design – Google Cloud
-
-Introduction to Large Language Models – Google Cloud
-
-Introduction to Generative AI – Google Cloud
-
-⚖️ Responsible & Ethical AI
-
-Knowledge of Responsible AI principles and governance frameworks
-
-Understanding of fairness, bias detection, transparency, and accountability
-
-Privacy-aware and secure AI/ML development practices
-
-Awareness of enterprise-level AI risk management strategies
-
-Certifications:
-
-Operationalizing Responsible AI – Google Cloud
-
-Introduction to Responsible AI – Google Cloud
-
-☁️ Machine Learning & Cloud Fundamentals
-
-Foundational understanding of end-to-end ML system design
-
-Knowledge of data preparation, model training, evaluation, and deployment
-
-Awareness of ML lifecycle management and monitoring
-
-Familiarity with Google Cloud, Vertex AI, and ML best practices
-
-Certification Preparation:
-
-Professional Machine Learning Engineer (PMLE) – Google Cloud
