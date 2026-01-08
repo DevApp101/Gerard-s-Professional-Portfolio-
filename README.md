@@ -9,7 +9,31 @@ A repository showcasing my professional qualifications, academic modules, and ad
   <summary>Read More about Cybersecurity Essentials</summary>
   
   This section can include more detailed information, such as the course syllabus, key projects, skills gained, and any other relevant details.
+ Covered cybersecurity threats, vulnerabilities, and attack techniques
 
+• Learned confidentiality, integrity, availability (CIA triad)
+
+• Understood security controls, countermeasures, and cybersecurity laws
+
+• Gained practical exposure to protecting networks, data, and systems
+
+#Key Skills Gained:
+
+•Cybersecurity fundamentals
+
+•Threats, vulnerabilities, and attack vectors
+
+•Security principles (CIA Triad)
+
+•Network and data protection concepts
+
+•Security controls and countermeasures
+
+•Basic risk assessment and mitigation
+
+•Cybersecurity policies, laws, and compliance awareness
+
+•Incident awareness and defensive security concepts
 </details>
 
 #Vertex AI Prompt Design – Google Cloud Completed: Nov 2025
