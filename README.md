@@ -2,8 +2,7 @@
 
 #Cybersecurity Essentials — Cisco Networking Academy Completed: May 2023
 
-<img width="517" height="347" alt="image" src="https://github.com/user-attachments/assets/cdd092cd-2141-4a79-bf6c-bb0d25576594" />
-<img width="517" height="347" alt="image" src="https://github.com/user-attachments/assets/ed77eafa-ca27-4aa9-b07d-7d1ee549ed8a" />
+
 <details> <summary><strong>Completed: May 2023</strong> <em>🔽 Read more</em></summary> <br>
 
 Covered core cybersecurity concepts including threats, vulnerabilities, and attack techniques, with a strong foundation in protecting networks, data, and systems.
@@ -25,7 +24,8 @@ Basic risk assessment and mitigation
 Cybersecurity policies, laws, and compliance awareness
 
 Incident awareness and defensive security concepts
-
+<img width="517" height="347" alt="image" src="https://github.com/user-attachments/assets/cdd092cd-2141-4a79-bf6c-bb0d25576594" />
+<img width="517" height="347" alt="image" src="https://github.com/user-attachments/assets/ed77eafa-ca27-4aa9-b07d-7d1ee549ed8a" />
 
 </details>
 
