@@ -1,40 +1,37 @@
-##Gerard-s-Professional-Portfolio-
-A repository showcasing my professional qualifications, academic modules, and additional courses
+#Gerard-s-Professional-Portfolio-
 
 #Cybersecurity Essentials — Cisco Networking Academy Completed: May 2023
 
 <img width="517" height="347" alt="image" src="https://github.com/user-attachments/assets/cdd092cd-2141-4a79-bf6c-bb0d25576594" />
 <img width="517" height="347" alt="image" src="https://github.com/user-attachments/assets/ed77eafa-ca27-4aa9-b07d-7d1ee549ed8a" />
-<details>
-  <summary>Read More about Cybersecurity Essentials</summary>
-  
-  This section can include more detailed information, such as the course syllabus, key projects, skills gained, and any other relevant details.
- Covered cybersecurity threats, vulnerabilities, and attack techniques
+<details> <summary><strong>Completed: May 2023</strong> <em>🔽 Read more</em></summary> <br>
 
-• Learned confidentiality, integrity, availability (CIA triad)
+Covered core cybersecurity concepts including threats, vulnerabilities, and attack techniques, with a strong foundation in protecting networks, data, and systems.
 
-• Understood security controls, countermeasures, and cybersecurity laws
+🔑 Key Topics & Skills
 
-• Gained practical exposure to protecting networks, data, and systems
+Cybersecurity fundamentals
 
-#Key Skills Gained:
+Threats, vulnerabilities, and attack vectors
 
-•Cybersecurity fundamentals
+Security principles (CIA Triad: Confidentiality, Integrity, Availability)
 
-•Threats, vulnerabilities, and attack vectors
+Network and data protection concepts
 
-•Security principles (CIA Triad)
+Security controls and countermeasures
 
-•Network and data protection concepts
+Basic risk assessment and mitigation
 
-•Security controls and countermeasures
+Cybersecurity policies, laws, and compliance awareness
 
-•Basic risk assessment and mitigation
+Incident awareness and defensive security concepts
 
-•Cybersecurity policies, laws, and compliance awareness
 
-•Incident awareness and defensive security concepts
 </details>
+
+
+
+
 
 #Vertex AI Prompt Design – Google Cloud Completed: Nov 2025
 
