@@ -1,6 +1,6 @@
 #Gerard-s-Professional-Portfolio-
 
-#Cybersecurity Essentials — Cisco Networking Academy
+#Cybersecurity Essentials — Cisco Networking Academy Completed: May 2023
 
 
 <details> <summary><strong>Course Overview & Skills</strong> <em>🔽 Read more</em></summary> <br>
