@@ -3,7 +3,7 @@
 #Cybersecurity Essentials — Cisco Networking Academy
 
 
-<details> <summary><strong>Completed: May 2023</strong> <em>🔽 Read more</em></summary> <br>
+<details> <summary><strong>Course Overview & Skills</strong> <em>🔽 Read more</em></summary> <br>
 
 Covered core cybersecurity concepts including threats, vulnerabilities, and attack techniques, with a strong foundation in protecting networks, data, and systems.
 
@@ -38,7 +38,7 @@ Incident awareness and defensive security concepts
 #Vertex AI Prompt Design – Google Cloud Completed: Nov 2025
 
 
-<details> <summary><strong>Completed: Nov 2025</strong> <em>🔽 Read more</em></summary> <br>
+<details> <summary><strong>Course Overview & Skills</strong> <em>🔽 Read more</em></summary> <br>
 
 Hands-on experience with prompt engineering, image analysis, and multimodal generative AI using Gemini models in Vertex AI, applied to marketing and content-generation use cases.
 
@@ -65,7 +65,7 @@ Vertex AI & Google Cloud fundamentals
 #Operationalizing Responsible AI – Google Cloud
 
 
-<details> <summary><strong>Practical Training</strong> <em>🔽 Read more</em></summary> <br>
+<details> <summary><strong>Course Overview & Skills</strong> <em>🔽 Read more</em></summary> <br>
 
 Practical training in implementing responsible, ethical, and transparent AI/ML systems using Google Cloud best practices and enterprise AI governance frameworks.
 
@@ -94,7 +94,7 @@ Google Cloud AI governance frameworks
 #PMLE Certification Preparation – Google Cloud
 
 
-<details> <summary><strong>Professional Machine Learning Engineer (PMLE)</strong> <em>🔽 Read more</em></summary> <br>
+<details> <summary><strong>Course Overview & Skills</strong> <em>🔽 Read more</em></summary> <br>
 
 Developed a structured study plan and assessed readiness across Google Cloud Professional Machine Learning Engineer (PMLE) exam domains.
 
@@ -121,7 +121,7 @@ Google Cloud ML engineering best practices
 #Introduction to Responsible AI – Google Cloud
 
 
-<details> <summary><strong>Foundational Course</strong> <em>🔽 Read more</em></summary> <br>
+<details> <summary><strong>Course Overview & Skills</strong> <em>🔽 Read more</em></summary> <br>
 
 Foundational understanding of ethical and responsible AI concepts aligned with Google’s AI Principles.
 
@@ -147,7 +147,7 @@ Google’s AI principles and product application
 #Introduction to Large Language Models – Google Cloud
 
 
-<details> <summary><strong>Foundational Course</strong> <em>🔽 Read more</em></summary> <br>
+<details> <summary><strong>Course Overview & Skills</strong> <em>🔽 Read more</em></summary> <br>
 
 Foundational knowledge of Large Language Models (LLMs), prompt tuning, and Google Cloud tools for generative AI application development.
 
@@ -173,7 +173,7 @@ Google Cloud tools for GenAI development
 
 #Introduction to Generative AI – Google Cloud
 
-<details> <summary><strong>Foundational Course</strong> <em>🔽 Read more</em></summary> <br>
+<details> <summary><strong>Course Overview & Skills</strong> <em>🔽 Read more</em></summary> <br>
 
 Foundational understanding of Generative AI concepts, use cases, and Google Cloud tools for GenAI development.
 
