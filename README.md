@@ -1,4 +1,5 @@
 #Gerard-s-Professional-Portfolio- Online Courses & Certifications
+
 *Click 'Read more' to view detailed infomation about each course*
 *Please note that images of certificates may take a few moments to load*
 
