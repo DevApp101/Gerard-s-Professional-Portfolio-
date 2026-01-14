@@ -3,7 +3,7 @@ A repository showcasing my professional qualifications, academic modules, and ad
 
 [Cliick here to explore my additional Courses](https://github.com/DevApp101/Gerard-s-Professional-Portfolio-/blob/Courses-Certificates/README.md)
 
-[Cliick here to explore my additional Projects]([https://github.com/DevApp101/Gerard-s-Professional-Portfolio-/blob/Courses-Certificates/README.md](https://github.com/DevApp101/Gerard-s-Professional-Portfolio-/blob/Projects/README.md)
+[Cliick here to explore my additional Projects](https://github.com/DevApp101/Gerard-s-Professional-Portfolio-/blob/Projects/README.md)
 
 
 Below, you will find a summarized version of my CV, highlighting my academic background, skills and projects
