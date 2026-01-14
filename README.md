@@ -22,10 +22,15 @@ Recent ICT Applications Development graduate with a strong foundation in softwar
 SKILLS SUMMARY
 
 • Application development using C# and .NET technologies
+
 • Web development using HTML, CSS, JavaScript, and ASP.NET MVC
+
 • Database design and SQL-based data management
+
 • Cloud application deployment using Microsoft Azure
+
 • Version control and collaborative development using GitHub
+
 • Strong analytical thinking and problem-solving ability
 
 
@@ -48,9 +53,13 @@ Business Studies
 Accounting
 
 DURBAN UNIVERSITY OF TECHNOLOGY:
+
 2023 - 2025
+
 Diploma in ICT: Applications Development
+
 Durban University of Technology (DUT)
+
 NQF Level 6 | HEQSF Credits: 360
 
 
@@ -64,10 +73,15 @@ Tools: Git, GitHub, Microsoft Teams, Android Studio, Visual Studio, Postman, Azu
 ACADEMIC PROJECTS
 
 Final-Year Applications Development Project:
+
 • Developed cloud-based web and mobile applications as part of final-year coursework
+
 • Implemented CRUD functionality, authentication, and database integration
+
 • Deployed applications to Microsoft Azure
+
 • Used GitHub for version control and collaboration
+
 • Produced Software Requirements Specifications (SRS) and formal presentations
 
 
