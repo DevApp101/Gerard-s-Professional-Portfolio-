@@ -33,9 +33,21 @@ SKILLS SUMMARY
 
 EDUCATION
 
+ST DAVID’S COLLEGE: 2017-2021
+English
+Afrikaans
+Information Technolgy
+Mathematics: Core & Advanced Programme
+Business Studies
+Accounting
+
+DURBAN UNIVERSITY OF TECHNOLOGY:
+2023 - 2025
 Diploma in ICT: Applications Development
 Durban University of Technology (DUT)
 NQF Level 6 | HEQSF Credits: 360
+
+
 TECHNICAL SKILLS
 Programming: C#, .NET Core, ASP.NET MVC, Java (introductory), SQL, HTML, CSS, JavaScript, Kotlin
 Cloud: Microsoft Azure (App Services, SQL Azure, Blob Storage, Cosmos DB), RESTful APIs
