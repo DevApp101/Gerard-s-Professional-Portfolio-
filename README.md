@@ -4,6 +4,7 @@ A repository showcasing my professional qualifications, academic modules, and ad
 [Cliick here to explore my additional courses](https://github.com/DevApp101/Gerard-s-Professional-Portfolio-/blob/Courses-Certificates/README.md)
 
 Below, you will find a summarized version of my CV, highlighting my academic background, skills and projects
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Graduate Applications Developer
 
