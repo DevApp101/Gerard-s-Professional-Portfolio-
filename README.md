@@ -10,11 +10,13 @@ Graduate Applications Developer
 Email: gerardreddy300@gmail.com | Phone: 061 626 3073 | 
 
 PROFILE
+
 Recent ICT Applications Development graduate with a strong foundation in software development, cloud technologies, and application design gained through academic and project-based work. Experienced in developing, testing, and deploying web and mobile applications as part of structured university projects. Highly motivated, disciplined, and keen to contribute to a professional development team while continuing to grow technical capability. I am currently pursuing additional courses to continuously enhance my skill set…https://github.com/DevApp101/Gerard-s-Professional-Portfolio-/blob/Courses-Certificates/README.md
 
 
 
 SKILLS SUMMARY
+
 • Application development using C# and .NET technologies
 • Web development using HTML, CSS, JavaScript, and ASP.NET MVC
 • Database design and SQL-based data management
@@ -26,6 +28,7 @@ SKILLS SUMMARY
 
 
 EDUCATION
+
 Diploma in ICT: Applications Development
 Durban University of Technology (DUT)
 NQF Level 6 | HEQSF Credits: 360
@@ -37,6 +40,7 @@ Tools: Git, GitHub, Microsoft Teams, Android Studio, Visual Studio, Postman, Azu
 
 
 ACADEMIC PROJECTS
+
 Final-Year Applications Development Project:
 • Developed cloud-based web and mobile applications as part of final-year coursework
 • Implemented CRUD functionality, authentication, and database integration
@@ -47,10 +51,12 @@ Final-Year Applications Development Project:
 
 
 PROFESSIONAL SKILLS
+
 Problem-solving • Willingness to learn • Communication • Teamwork • Time management • Accountability • Rapid and adaptable learner 
 
 
 CAREER OBJECTIVE
+
 To begin a professional career in software or applications development within a structured environment that values learning, quality delivery, and continuous improvement, while allowing me to contribute meaningfully to projects and teams.
 
 
