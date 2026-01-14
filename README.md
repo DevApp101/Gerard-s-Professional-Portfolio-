@@ -7,7 +7,7 @@ Below, you will find a summarized version of my CV, highlighting my academic bac
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Graduate Applications Developer
 
-Email: gerardreddy300@gmail.com | Phone: 061 626 3073 | GitHub: https://github.com/DevApp101/Gerard-s-Professional-Portfolio-/blob/Courses-Certificates/README.md
+Email: gerardreddy300@gmail.com | Phone: 061 626 3073 | 
 
 PROFILE
 Recent ICT Applications Development graduate with a strong foundation in software development, cloud technologies, and application design gained through academic and project-based work. Experienced in developing, testing, and deploying web and mobile applications as part of structured university projects. Highly motivated, disciplined, and keen to contribute to a professional development team while continuing to grow technical capability. I am currently pursuing additional courses to continuously enhance my skill set…https://github.com/DevApp101/Gerard-s-Professional-Portfolio-/blob/Courses-Certificates/README.md
