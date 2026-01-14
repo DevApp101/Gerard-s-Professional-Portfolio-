@@ -34,11 +34,17 @@ SKILLS SUMMARY
 EDUCATION
 
 ST DAVID’S COLLEGE: 2017-2021
+
 English
+
 Afrikaans
+
 Information Technolgy
+
 Mathematics: Core & Advanced Programme
+
 Business Studies
+
 Accounting
 
 DURBAN UNIVERSITY OF TECHNOLOGY:
