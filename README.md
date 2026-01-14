@@ -4,6 +4,8 @@
 
 *Please note that images of certificates may take a few moments to load*
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #Cybersecurity Essentials — Cisco Networking Academy Completed: May 2023
 
 
