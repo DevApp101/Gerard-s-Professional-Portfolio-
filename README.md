@@ -1,5 +1,7 @@
 #Gerard-s-Professional-Portfolio- Online Courses & Certifications
 
+This section highlights the online courses and certifications I have completed. Explore the details of each course to understand the skills and knowledge I have acquired.
+
 *Click 'Read more' to view detailed infomation about each course*
 
 *Please note that images of certificates may take a few moments to load*
