@@ -1,4 +1,5 @@
 # Gerard-s-Professional-Portfolio-
+-----------------------------------
 A repository showcasing my professional qualifications, academic modules, and additional courses
 
 [Cliick here to explore my additional Courses](https://github.com/DevApp101/Gerard-s-Professional-Portfolio-/blob/Courses-Certificates/README.md)
@@ -20,6 +21,7 @@ Recent ICT Applications Development graduate with a strong foundation in softwar
 
 
 SKILLS SUMMARY
+---------------
 
 • Application development using C# and .NET technologies
 
@@ -37,6 +39,7 @@ SKILLS SUMMARY
 
 
 EDUCATION
+----------
 
 ST DAVID’S COLLEGE: 2017-2021
 
@@ -63,15 +66,19 @@ Durban University of Technology (DUT)
 NQF Level 6 | HEQSF Credits: 360
 
 
+
 TECHNICAL SKILLS
+-----------------
 Programming: C#, .NET Core, ASP.NET MVC, Java (introductory), SQL, HTML, CSS, JavaScript, Kotlin
 Cloud: Microsoft Azure (App Services, SQL Azure, Blob Storage, Cosmos DB), RESTful APIs
 Databases: Microsoft SQL Server, MySQL, Azure SQL Database, Cosmos DB 
 Tools: Git, GitHub, Microsoft Teams, Android Studio, Visual Studio, Postman, Azure Cloud    Services, MySQL
 
 
-ACADEMIC PROJECTS
 
+
+ACADEMIC PROJECTS
+------------------
 Final-Year Applications Development Project:
 
 • Developed cloud-based web and mobile applications as part of final-year coursework
@@ -86,13 +93,16 @@ Final-Year Applications Development Project:
 
 
 
-PROFESSIONAL SKILLS
 
+PROFESSIONAL SKILLS
+--------------------
 Problem-solving • Willingness to learn • Communication • Teamwork • Time management • Accountability • Rapid and adaptable learner 
 
 
-CAREER OBJECTIVE
 
+
+CAREER OBJECTIVE
+-----------------
 To begin a professional career in software or applications development within a structured environment that values learning, quality delivery, and continuous improvement, while allowing me to contribute meaningfully to projects and teams.
 
 
